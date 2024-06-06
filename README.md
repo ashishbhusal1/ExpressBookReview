@@ -1,1 +1,1 @@
-CURD operations of Node.js
+CRUD operations of Node.js
